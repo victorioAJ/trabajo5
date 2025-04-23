@@ -1,0 +1,10 @@
+Package: GNCL
+Type: Package
+Title: Generador de Números Confiables y Locales
+Version: 0.1.0
+Author: victor aquize jimenez
+Maintainer: Tu Nombre <victorioaj19@gmail.com>
+Description: Genera datos aleatorios de talla (m), peso (kg) y temperatura corporal (°C) realistas, adaptados según país.
+License: MIT
+Encoding: UTF-8
+LazyData: true
